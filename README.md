@@ -5,13 +5,13 @@
 translate(-50%,-50%);
 -познакомились с генераторо изображений (см. ителект карту
 https://go.su/front ветка изображния)
---сформировали кнопку из тега <a>. добавили в кнопку:
+- сформировали кнопку из тега <a>. добавили в кнопку:
 display:inline-block
--- border:2px solid #d6d6d6;
--- text-transform: uppercase;
---letter-spacing: 2px;
---border-radius: 10px;
---вольспользовались свойством  .btncard:hover(при наведении курсора мышки на блок)
+- border:2px solid #d6d6d6;
+- text-transform: uppercase;
+- letter-spacing: 2px;
+- border-radius: 10px;
+- вольспользовались свойством  .btncard:hover(при наведении курсора мышки на блок)
 -  ограничили проэкт одним экраном html{
     height: 100%;
 }
